@@ -1,0 +1,26 @@
+{
+  "name": "ecoharbor",
+  "version": "1.0.0",
+  "description": "EcoHarbor is an all-one platform promotiong eco-friendly living.Discover sustainable products,get advice on an eco-conscious lifestyle,and engage with a community working towards a sustainable future.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SustainableLiving",
+    "Eco-Friendly",
+    "GreenLifestyle",
+    "SustainableProducts",
+    "Community",
+    "EnvironmentalAwareness",
+    "EcoTips",
+    "GreenShopping",
+    "Sustainability",
+    "EcoCommunity"
+  ],
+  "author": "DkNmr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
